@@ -1,0 +1,3 @@
+[submodule "tsn-pytorch"]
+	path = tsn-pytorch
+	url = https://github.com/NicolaAgostini/tsn-pytorch.git
